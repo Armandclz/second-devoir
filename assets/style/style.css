@@ -19,6 +19,7 @@ menu{
 header{
     display: flex;
     justify-content: center;
+    background-color: white;
 }
 #color-home{
     color: #662F32;
@@ -33,4 +34,20 @@ main{
     display: flex;
     flex-direction: column;
     font-size: 30px;
+    width: 1050px;
+    background-color: white;
+}
+img{
+    width: 1000px;
+}
+figure{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #6A635C;
+}
+#div-de-placement-flexbox{
+    display: flex;
+    justify-content: center;
 }
